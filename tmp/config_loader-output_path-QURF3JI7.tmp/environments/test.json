@@ -1,0 +1,1 @@
+{"modulePrefix":"listFul","environment":"test","rootURL":"/","locationType":"none","apiHost":"http://localhost:4741/","EmberENV":{"FEATURES":{},"EXTEND_PROTOTYPES":{"Date":false}},"APP":{"LOG_ACTIVE_GENERATION":false,"LOG_VIEW_LOOKUPS":false,"rootElement":"#ember-testing","name":"listFul","version":"0.0.0+ff275d75"},"rootUrl":"/","exportApplicationGlobal":true}

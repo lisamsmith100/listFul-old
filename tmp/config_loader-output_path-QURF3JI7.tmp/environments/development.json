@@ -1,0 +1,1 @@
+{"modulePrefix":"listFul","environment":"development","rootURL":"/","locationType":"auto","apiHost":"http://localhost:4741","EmberENV":{"FEATURES":{},"EXTEND_PROTOTYPES":{"Date":false}},"APP":{"name":"listFul","version":"0.0.0+ff275d75"},"exportApplicationGlobal":true}

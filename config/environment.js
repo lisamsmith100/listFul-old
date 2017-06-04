@@ -2,11 +2,12 @@
 
 module.exports = function (environment) {
   'use strict';
-  const ENV = {
+  var ENV = {
     modulePrefix: 'listFul',
     environment: environment,
     rootURL: '/',
     locationType: 'auto',
+    apiHost: 'http://localhost:4741/',
     EmberENV: {
       FEATURES: {
         // Here you can enable experimental features on an ember canary build
@@ -49,7 +50,10 @@ module.exports = function (environment) {
   }
 
   if (environment === 'production') {
+    ENV.rootURL = 'https://github.com/lisamsmith100/listFul/'
+    // https://lisamsmith100.github.io/listFul/'
     ENV.locationType = 'hash';
+    ENV.apiHost = 'https://listful-rails-api.herokuapp.com/>';
   }
 
   return ENV;

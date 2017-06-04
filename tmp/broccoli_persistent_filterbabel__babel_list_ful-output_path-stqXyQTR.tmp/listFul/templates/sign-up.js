@@ -1,0 +1,3 @@
+define("listFul/templates/sign-up", ["exports"], function (exports) {
+  exports["default"] = Ember.HTMLBars.template({ "id": "4hQs95Ig", "block": "{\"statements\":[[\"open-element\",\"h2\",[]],[\"flush-element\"],[\"text\",\"Sign Up\"],[\"close-element\"],[\"text\",\"\\n\\n\"],[\"append\",[\"helper\",[\"sign-up-form\"],null,[[\"submit\"],[\"signUp\"]]],false],[\"text\",\"\\n\"]],\"locals\":[],\"named\":[],\"yields\":[],\"blocks\":[],\"hasPartials\":false}", "meta": { "moduleName": "listFul/templates/sign-up.hbs" } });
+});
