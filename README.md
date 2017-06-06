@@ -2,7 +2,8 @@
 
   An app for making lists. I am a "lister." If you like to list as much as I do, you may find this app useful to you because you can create lists from scratch or from a template. And you can turn a list into a template.
 
-- Live app: [listFul](https://lisamsmith100.github.io/listFul/)
+- Live app: [listFul](http://localhost:7165)
+  will be /lisamsmith100.github.io/listFul/
 - Live API: [listFul-rails-api](https://hnd-api.herokuapp.com/)
 - API repo on GitHub: [lisamsmith100/listFul-rails-api](https://github.com/lisamsmith100/listFul-rails-api)
 
